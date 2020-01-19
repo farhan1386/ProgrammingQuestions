@@ -17,7 +17,7 @@ namespace ProgrammingQuestions
                 Console.WriteLine(item);
             }
 
-            Console.WriteLine("-----Second Highest Number-----");
+            Console.WriteLine("-----Second Highest Number------");
 
             foreach (var item in number)
             {
